@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Medium';
+    src: url('fonts/Medium.eot');
+    src: url('fonts/Medium.eot') format('embedded-opentype'),
+         url('fonts/Medium.woff2') format('woff2'),
+         url('fonts/Medium.woff') format('woff'),
+         url('fonts/Medium.ttf') format('truetype'),
+         url('fonts/Medium.svg#11849_1') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Bold';
+    src: url('../fonts/fonts/Bold.eot');
+    src: url('../fonts/fonts/Bold.eot') format('embedded-opentype'),
+         url('../fonts/fonts/Bold.woff2') format('woff2'),
+         url('../fonts/fonts/Bold.woff') format('woff'),
+         url('../fonts/fonts/Bold.ttf') format('truetype'),
+         url('../fonts/') format('svg');
+}
